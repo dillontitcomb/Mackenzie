@@ -1,0 +1,33 @@
+h1 {
+  color: #5179ba;
+}
+
+body {
+  background-color: aqua;
+}
+
+h3 {
+  color: fuchsia;
+}
+
+.list-item {
+  font-family: Times;
+}
+
+#css-item {
+  color: #5179ba;
+}
+
+#goal-list{
+  border-style: solid;
+  border-color: #5179ba;
+  width: 30%;
+}
+
+#picture {
+  width: 60%;
+  float: right;
+  border: solid;
+  border-color: lightsalmon hotpink;
+  border-width: thick;
+}
